@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 15:54:02</sys_created_on>
+        <sys_id>6c4e8bc0db42330016488632399619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_276844_get_and_s_ssds.x_276844_get_and_s.user</sys_name>
+        <sys_package display_value="Get and Show SSDs v1" source="x_276844_get_and_s">57fc8340db42330016488632399619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Get and Show SSDs v1">57fc8340db42330016488632399619aa</sys_scope>
+        <sys_security_acl display_value="x_276844_get_and_s_ssds">a04e8bc0db42330016488632399619c6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6c4e8bc0db42330016488632399619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 15:54:02</sys_updated_on>
+        <sys_user_role display_value="x_276844_get_and_s.user" name="x_276844_get_and_s.user">ebfc0f80db423300164886323996191c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
